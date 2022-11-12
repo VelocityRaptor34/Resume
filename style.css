@@ -1,0 +1,35 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body{
+  margin:0px;
+  border-style:dotted;
+  border-color:#9900ff;
+  border-width:5px;
+  background-color:#748fb0
+
+}
+header{
+  font-family:script;
+}
+
+h1{
+  margin:0px;
+text-transform:uppercase;
+}
+
+header{
+  letter-spacing: 0px;
+}
+
+section{
+  color:#751ac4;
+}
+
+.maron {
+  color:brown
+}
+#Headings{
+  color:cyan
+}
